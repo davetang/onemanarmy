@@ -53,3 +53,5 @@ Links to some of my notes.
 ### Misc
 
 * [Using LaTeX](https://github.com/davetang/getting_started_with_latex)
+* [Best Practices](https://berkeleybop.github.io/best_practice/) of the
+Berkeley Bioinformatics Open-source Projects (BBOP)
