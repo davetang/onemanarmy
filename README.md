@@ -6,9 +6,12 @@ Links to some of my notes.
 
 * [Linux networking](https://github.com/davetang/learning_linux/blob/main/networking.md)
 * [Debugging with strace](https://github.com/davetang/learning_linux/blob/main/strace.md)
+* [Troubleshooting systems](https://github.com/davetang/learning_linux/blob/main/trouble.md)
+* [Looking at system logs](https://github.com/davetang/learning_linux/blob/main/logs.md)
 
-### Programming
+### Programming/scripting
 
+* [Use Bash more effectively](https://github.com/davetang/learning_bash)
 * [Learning how R works](https://github.com/davetang/learning_r)
 * [Learning how Python works](https://github.com/davetang/learning_python)
 * [Learning how C works](https://github.com/davetang/getting_started_with_c)
@@ -41,6 +44,8 @@ Links to some of my notes.
 * [Work with genomic regions](https://github.com/davetang/defining_genomic_regions)
 * [Learning how WDL works](https://github.com/davetang/learning_wdl)
 * [Working with an ontology (HPO)](https://github.com/davetang/human_phenotype_ontology)
+* [Learn how to use Nextflow](https://github.com/davetang/learning_nextflow)
+* [Learn how to download publicly available data](https://github.com/davetang/research_parasite)
 
 ### Software development
 
@@ -54,4 +59,4 @@ Links to some of my notes.
 
 * [Using LaTeX](https://github.com/davetang/getting_started_with_latex)
 * [Best Practices](https://berkeleybop.github.io/best_practice/) of the
-Berkeley Bioinformatics Open-source Projects (BBOP)
+  Berkeley Bioinformatics Open-source Projects (BBOP)
