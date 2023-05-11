@@ -1,13 +1,27 @@
 ## README
 
-Links to some of my notes.
+In most cases, a team of people with different areas of expertise working
+together is ideal. More often than not, things goes awry and you just have to
+deal with it. This means learning a new set of skills and learning how to work
+more efficiently to cope with a lack of a full team. Below are my notes (except
+for the last link) on various things I have learned and am continually learning
+about.
 
-### Administration
+### Linux administration
 
 * [Linux networking](https://github.com/davetang/learning_linux/blob/main/networking.md)
 * [Debugging with strace](https://github.com/davetang/learning_linux/blob/main/strace.md)
 * [Troubleshooting systems](https://github.com/davetang/learning_linux/blob/main/trouble.md)
 * [Looking at system logs](https://github.com/davetang/learning_linux/blob/main/logs.md)
+
+### Software development
+
+* [GNU Make](https://davetang.org/muse/2015/05/31/learning-about-makefiles/)
+* [DevOps](https://github.com/davetang/learning_linux/blob/main/devops.md)
+* [Know how to use Git](https://github.com/davetang/getting_started_with_git)
+* [Know how to use Docker](https://github.com/davetang/learning_docker)
+* [Know how to use Singularity](https://github.com/davetang/learning_singularity)
+* [Run RStudio Server using Docker](https://davetang.org/muse/2021/04/24/running-rstudio-server-with-docker/)
 
 ### Programming/scripting
 
@@ -16,6 +30,7 @@ Links to some of my notes.
 * [Learning how Python works](https://github.com/davetang/learning_python)
 * [Learning how C works](https://github.com/davetang/getting_started_with_c)
 * [Learning how Rust works](https://github.com/davetang/learning_rust)
+* [Learning how Ruby works](https://github.com/davetang/learning_ruby)
 * [Data structures](https://davetang.github.io/bioinformatics_tips/data_struct.html)
 * [Writing command line scripts](https://davetang.github.io/bioinformatics_tips/get_option.html)
 * [Running R in parallel](https://davetang.github.io/muse/parallel.html)
@@ -47,16 +62,9 @@ Links to some of my notes.
 * [Learn how to use Nextflow](https://github.com/davetang/learning_nextflow)
 * [Learn how to download publicly available data](https://github.com/davetang/research_parasite)
 
-### Software development
-
-* [GNU Make](https://davetang.org/muse/2015/05/31/learning-about-makefiles/)
-* [DevOps](https://github.com/davetang/learning_linux/blob/main/devops.md)
-* [Know how to use Git](https://github.com/davetang/getting_started_with_git)
-* [Know how to use Docker](https://github.com/davetang/learning_docker)
-* [Run RStudio Server using Docker](https://davetang.org/muse/2021/04/24/running-rstudio-server-with-docker/)
-
 ### Misc
 
 * [Using LaTeX](https://github.com/davetang/getting_started_with_latex)
 * [Best Practices](https://berkeleybop.github.io/best_practice/) of the
-  Berkeley Bioinformatics Open-source Projects (BBOP)
+  Berkeley Bioinformatics Open-source Projects (BBOP), which is based on the
+  [best practices](https://github.com/knocean/practises) of Knocean.
