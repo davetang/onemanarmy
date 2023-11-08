@@ -1,3 +1,14 @@
+## Table of Contents
+
+  - [README](#readme)
+  - [General tips](#general-tips)
+  - [Linux administration](#linux-administration)
+  - [Software development](#software-development)
+  - [Programming/scripting](#programmingscripting)
+  - [Analysis](#analysis)
+    - [Bioinformatics](#bioinformatics)
+  - [Misc](#misc)
+
 ## README
 
 In most cases, a team of people with different areas of expertise working
@@ -7,14 +18,38 @@ more efficiently to cope with a lack of a full team. Below are my notes (except
 for the last link) on various things I have learned and am continually learning
 about.
 
-### Linux administration
+## General tips
+
+[Trust, but verify](https://en.wikipedia.org/wiki/Trust,_but_verify).
+
+When you have a computational problem to solve, look _extensively_ to see if a
+tool already exists that can help you solve your problem. Chances are that a
+tool already exists. If a tool does not do exactly what you need, try to break
+your problem down into separate parts and use the tool for the sub-problem. Do
+not implement your own tool unless it is absolutely necessary.
+
+When you perform an analysis, try to make the analysis self-contained, which
+the Cambridge dictionary defines quite nicely: "containing or having everything
+that is needed within itself". Another user (e.g. yourself on another computer)
+should be able to clone/copy your analysis, run it, and produce the same
+results.
+
+_Always_ try to script everything you do! No pointing and clicking. Use APIs
+and command-line tools. (I don't even use a mouse, unless I really need to,
+like when a website annoyingly does not work with
+[vimium](https://github.com/philc/vimium).)
+
+There's always a better way to do something. If you find yourself continually
+doing something inefficiently, it is time to find a better solution.
+
+## Linux administration
 
 * [Linux networking](https://github.com/davetang/learning_linux/blob/main/networking.md)
 * [Debugging with strace](https://github.com/davetang/learning_linux/blob/main/strace.md)
 * [Troubleshooting systems](https://github.com/davetang/learning_linux/blob/main/trouble.md)
 * [Looking at system logs](https://github.com/davetang/learning_linux/blob/main/logs.md)
 
-### Software development
+## Software development
 
 * [GNU Make](https://davetang.org/muse/2015/05/31/learning-about-makefiles/)
 * [DevOps](https://github.com/davetang/learning_linux/blob/main/devops.md)
@@ -23,7 +58,7 @@ about.
 * [Know how to use Singularity](https://github.com/davetang/learning_singularity)
 * [Run RStudio Server using Docker](https://davetang.org/muse/2021/04/24/running-rstudio-server-with-docker/)
 
-### Programming/scripting
+## Programming/scripting
 
 * [Use Bash more effectively](https://github.com/davetang/learning_bash)
 * [Learning how R works](https://github.com/davetang/learning_r)
@@ -35,7 +70,7 @@ about.
 * [Writing command line scripts](https://davetang.github.io/bioinformatics_tips/get_option.html)
 * [Running R in parallel](https://davetang.github.io/muse/parallel.html)
 
-### Analysis
+## Analysis
 
 * [Machine learning](https://github.com/davetang/machine_learning)
     * [Random Forest](https://github.com/davetang/learning_random_forest)
@@ -44,7 +79,7 @@ about.
 * [Make a complex UpSet plots](https://davetang.github.io/muse/complex_upset.html)
 * [Investigate how PCA works](https://davetang.github.io/muse/pca.html)
 
-#### Bioinformatics
+### Bioinformatics
 
 * Analyse DNA-seq data
     * [Part 1](https://davetang.org/muse/2015/07/24/dna-sequencing-data/)
@@ -62,7 +97,7 @@ about.
 * [Learn how to use Nextflow](https://github.com/davetang/learning_nextflow)
 * [Learn how to download publicly available data](https://github.com/davetang/research_parasite)
 
-### Misc
+## Misc
 
 * [Using LaTeX](https://github.com/davetang/getting_started_with_latex)
 * [Best Practices](https://berkeleybop.github.io/best_practice/) of the
