@@ -28,6 +28,19 @@ tool already exists. If a tool does not do exactly what you need, try to break
 your problem down into separate parts and use the tool for the sub-problem. Do
 not implement your own tool unless it is absolutely necessary.
 
+Similar to the point above, don't start from scratch either. Use a standard
+template or layout. This not only saves time but helps you become more
+systematic since you are using the same template/layout for your work.
+
+Be systematic. For example, over the years I've started to accumulate more and
+more junk at home and I find myself searching for things more often. Where'd I
+put the USB-C to HDMI cable!? Where's my 3.5mm audio cable extension cord!?
+Finally I got sick of searching for stuff and organised everything in a
+systematic way. This applies computationally too. Where's that R function I
+wrote for checking if a package is installed!? Where's that analysis I did!?
+Organise your functions into a single file or package it. Organise your
+analysis files using some directory structure.
+
 When you perform an analysis, try to make the analysis self-contained, which
 the Cambridge dictionary defines quite nicely: "containing or having everything
 that is needed within itself". Another user (e.g. yourself on another computer)
@@ -41,6 +54,11 @@ like when a website annoyingly does not work with
 
 There's always a better way to do something. If you find yourself continually
 doing something inefficiently, it is time to find a better solution.
+
+Focus on results but revise/refactor your code later on when the deadline has
+been met! Chances are that you will have to revisit your code that you wrote in
+a hurry and it will probably make less sense later compared to when you wrote
+it.
 
 ## Linux administration
 
