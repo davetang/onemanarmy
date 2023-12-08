@@ -60,6 +60,14 @@ been met! Chances are that you will have to revisit your code that you wrote in
 a hurry and it will probably make less sense later compared to when you wrote
 it.
 
+Sometimes the hardest part to doing something is simply getting started. Here's
+a tip I learned from [Marilyn vos
+Savant](https://en.wikipedia.org/wiki/Marilyn_vos_Savant) a long time ago:
+simply make a promise to yourself that you will work on that dreaded task for 5
+minutes. More often than not, you will find yourself working for more than 5
+minutes. And even if you stop after 5 minutes, you won't feel bad and you got 5
+minutes of work done after all, which is better than nothing.
+
 ## Linux administration
 
 * [Linux networking](https://github.com/davetang/learning_linux/blob/main/networking.md)
