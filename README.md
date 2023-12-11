@@ -96,6 +96,23 @@ Being a Pragmatic Programmer will help to provide you with a more active
 involvement with a job you enjoy, a feeling of mastery over an increasing range
 of subjects, and continuous improvement.
 
+The Pragmatic Programmer sees the bigger picture and thinks beyond the
+immediate problem, placing it in its larger context. Without the bigger
+picture, it is difficult to be pragmatic and to make intelligent compromises
+and informed decisions. For example, by understanding the context, you can
+decide just how good your software needs to be. Sometimes near-perfection is
+necessary but often times you can make trade-offs.
+
+One of the main philosophy of being pragmatic is the idea of taking
+responsibility for yourself: you are in control of your career advancement,
+your learning and education, your project, and your day-to-day work.
+Furthermore, when you accept responsibility for something, you should expect to
+be held accountable for it. When you do make a mistake or an error in judgement
+(inevitably), admit it honestly and try to offer options. Don't blame because
+while something else may have played a role in the mistake/error, it is up to
+  _you_ to provide solutions and not excuses. If there was a risk, you should
+  have made a contingency plan.
+
 ## Linux administration
 
 * [Linux networking](https://github.com/davetang/learning_linux/blob/main/networking.md)
