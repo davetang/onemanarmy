@@ -166,6 +166,22 @@ DRY is about the duplication of _knowledge_, of _intent_. It is about
 expressing the same thing in two different places, possibly in two totally
 different ways.
 
+### Orthogonality
+
+Orthogonality is a critical concept that can help produce systems that are easy
+to design, build, test, and extend. In geometry, two lines are orthogonal if
+they meet at right angles, such as the axes on a graph. In vector terms, the
+two lines are _independent_.
+
+In computing, the term is associated with a kind of independence or decoupling.
+Two or more things are orthogonal if changes in one of not affect any of the
+others. In a well-designed system, the database code will be orthogonal to the
+user interface: changing one will not affect the other.
+
+Non-orthogonal systems are inherently more complex to change and control. When
+components of any system are highly interdependent, there is no such thing as a
+local fix.
+
 ## Linux administration
 
 * [Linux networking](https://github.com/davetang/learning_linux/blob/main/networking.md)
