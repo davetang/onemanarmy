@@ -2,6 +2,7 @@
 
   - [README](#readme)
   - [General tips](#general-tips)
+  - [The Pragmatic Programmer](#the-pragmatic-programmer)
   - [Linux administration](#linux-administration)
   - [Software development](#software-development)
   - [Programming/scripting](#programmingscripting)
@@ -67,6 +68,33 @@ simply make a promise to yourself that you will work on that dreaded task for 5
 minutes. More often than not, you will find yourself working for more than 5
 minutes. And even if you stop after 5 minutes, you won't feel bad and you got 5
 minutes of work done after all, which is better than nothing.
+
+## The Pragmatic Programmer
+
+The Pragmatic Programmer, typically has the following characteristics:
+
+* Early adopter/fast adapter - instinct for tech and methodology with a passion
+  for trying new things. Able to distill new things and integrate it.
+
+* Inquisitive - tend to ask questions.
+
+* Critical thinker - rarely take things as given.
+
+* Realistic - understand the nature of a problem and can estimate how long a
+  task will take to complete.
+
+* Jack of all trades - familiar with broad range of tech and strive to keep on
+  top of new developments.
+
+* Care about your craft - you can only do good work when you care about your
+  work.
+
+* Think about your work - ongoing critical appraisal of every decision made
+  every day and on every project.
+
+Being a Pragmatic Programmer will help to provide you with a more active
+involvement with a job you enjoy, a feeling of mastery over an increasing range
+of subjects, and continuous improvement.
 
 ## Linux administration
 
