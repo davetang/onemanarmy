@@ -3,6 +3,7 @@
   - [README](#readme)
   - [General tips](#general-tips)
   - [The Pragmatic Programmer](#the-pragmatic-programmer)
+    - [Your Knowledge Portfolio](#your-knowledge-portfolio)
   - [Linux administration](#linux-administration)
   - [Software development](#software-development)
   - [Programming/scripting](#programmingscripting)
@@ -101,7 +102,12 @@ immediate problem, placing it in its larger context. Without the bigger
 picture, it is difficult to be pragmatic and to make intelligent compromises
 and informed decisions. For example, by understanding the context, you can
 decide just how good your software needs to be. Sometimes near-perfection is
-necessary but often times you can make trade-offs.
+necessary but often times you can make trade-offs. This idea is called
+good-enough software but it does not imply writing poor code. It simply
+advocates that the produced code is good enough for the necessary requirements.
+For example, you can trade-off adding new features or further polishing up code
+so that other constraints are met. The scope and quality requirements should be
+discussed at the beginning of a project.
 
 One of the main philosophy of being pragmatic is the idea of taking
 responsibility for yourself: you are in control of your career advancement,
@@ -112,6 +118,30 @@ be held accountable for it. When you do make a mistake or an error in judgement
 while something else may have played a role in the mistake/error, it is up to
   _you_ to provide solutions and not excuses. If there was a risk, you should
   have made a contingency plan.
+
+### Your Knowledge Portfolio
+
+All the facts about programming, the application domains, and experience
+constitute the _knowledge portfolio_. Managing a knowledge portfolio is very
+similar to managing a financial portfolio:
+
+1. Serious investors invest regularly as a habit (even if it is a small
+   amount).
+2. Diversification (know more different things) is the key to long-term
+   success.
+3. Smart investors balance their portfolios between conservative and high-risk,
+   high-reward investments. Don't invest all your time on high-risk tech that
+   might collapse suddenly nor invest too conservatively and miss out on
+   possible opportunities.
+4. Investors try to buy low and sell high for maximum return. Learning an
+   emerging technology before it becomes popular can be just as hard as finding
+   an undervalued stock but the payoff can be just as rewarding. Learning Java
+   back when it was first introduced may have been risky but it paid off as it
+   became an industry mainstay.
+5. Portfolios should be reviewed and rebalanced periodically. The tech industry
+   is very dynamic and last month's hot tech might be stone cold now.
+
+The most important point is to invest regularly in your knowledge portfolio.
 
 ## Linux administration
 
