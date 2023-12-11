@@ -156,6 +156,16 @@ easier or harder to change, most times common sense will be correct. If you're
 not sure, make sure that your implementation can be replaceable, which is what
 you should be doing all the time anyway.
 
+The only way to develop software reliably and to make developments easier to
+understand and maintain is to follow the DRY (Don't Repeat Yourself) principle:
+
+>Every piece of knowledge must have a single, unambiguous, authoritative
+representation within a system.
+
+DRY is about the duplication of _knowledge_, of _intent_. It is about
+expressing the same thing in two different places, possibly in two totally
+different ways.
+
 ## Linux administration
 
 * [Linux networking](https://github.com/davetang/learning_linux/blob/main/networking.md)
