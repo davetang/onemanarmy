@@ -143,6 +143,19 @@ similar to managing a financial portfolio:
 
 The most important point is to invest regularly in your knowledge portfolio.
 
+### The Essence of Good Design
+
+Every design principle is simply a special case of the ETC principle: Easier To
+Change. For example, decoupling is good because by isolating concerns, we make
+code easier to change. The single responsibility principle is useful because a
+change in requirements is mirrored by a change in just one module.
+
+When making changes, asking yourself whether the change made the overall system
+easier or harder to change. While it can be subjective on whether something is
+easier or harder to change, most times common sense will be correct. If you're
+not sure, make sure that your implementation can be replaceable, which is what
+you should be doing all the time anyway.
+
 ## Linux administration
 
 * [Linux networking](https://github.com/davetang/learning_linux/blob/main/networking.md)
