@@ -60,7 +60,7 @@ doing something inefficiently, it is time to find a better solution.
 Focus on results but revise/refactor your code later on when the deadline has
 been met! Chances are that you will have to revisit your code that you wrote in
 a hurry and it will probably make less sense later compared to when you wrote
-it.
+it. Be disciplined with your coding.
 
 Sometimes the hardest part to doing something is simply getting started. Here's
 a tip I learned from [Marilyn vos
@@ -181,6 +181,19 @@ user interface: changing one will not affect the other.
 Non-orthogonal systems are inherently more complex to change and control. When
 components of any system are highly interdependent, there is no such thing as a
 local fix.
+
+The concept of orthogonal systems can also be described as being modular,
+component-based, and layered. Systems should be composed of a set of
+cooperating modules, each of which implements functionality independent of the
+others. Sometimes these components are organised into layers, each providing a
+level of abstraction.
+
+To test for orthogonal design, ask: "If I dramatically change the requirements
+behind a particular function, how many modules are affected?". In an orthogonal
+system, the answer should be one. Also ask yourself how decoupled your design
+is from changes in the real world. For example, are you using telephone numbers
+as identifiers? What happens when the phone company reassigns area codes? **Do
+not rely on the properties of things you cannot control**.
 
 ## Linux administration
 
