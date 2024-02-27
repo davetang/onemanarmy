@@ -201,6 +201,8 @@ not rely on the properties of things you cannot control**.
 * [Debugging with strace](https://github.com/davetang/learning_linux/blob/main/strace.md)
 * [Troubleshooting systems](https://github.com/davetang/learning_linux/blob/main/trouble.md)
 * [Looking at system logs](https://github.com/davetang/learning_linux/blob/main/logs.md)
+* [Using Ansible for provisioning](https://github.com/davetang/learning_ansible)
+* [Using AWS](https://github.com/davetang/learning_aws)
 
 ## Software development
 
