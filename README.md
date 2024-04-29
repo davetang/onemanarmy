@@ -255,6 +255,7 @@ not rely on the properties of things you cannot control**.
 ## Misc
 
 * [Using LaTeX](https://github.com/davetang/getting_started_with_latex)
+* [Learning to use Vim effectively](https://github.com/davetang/learning_vim)
 * [Best Practices](https://berkeleybop.github.io/best_practice/) of the
   Berkeley Bioinformatics Open-source Projects (BBOP), which is based on the
   [best practices](https://github.com/knocean/practises) of Knocean.
